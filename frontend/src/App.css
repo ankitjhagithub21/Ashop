@@ -1,0 +1,19 @@
+a{
+  text-decoration: none !important;
+  color:initial !important;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+.carousel-item img{
+  height: 70vh;
+  object-fit: cover;
+  object-position: center;
+
+}
